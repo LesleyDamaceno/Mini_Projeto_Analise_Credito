@@ -26,7 +26,7 @@ Este projeto é um estudo simples para praticar **ETL com Python**, criação de
 
 ## 📸 **Dashboard**
 
-![Dashboard](imagens/dashboard_print.png)
+![Dashboard](dashboard_print.jpg)
 
 ---
 
