@@ -1,0 +1,11 @@
+id_cliente,nome,idade,risco,valor_credito,faixa etária
+1,Ana,25,bom,2000,18-30
+2,Bruno,32,ruim,5000,31-45
+3,Carla,40,bom,3000,31-45
+4,Daniel,22,bom,1500,18-30
+5,Elaine,36,ruim,4500,31-45
+6,Fernando,45,ruim,6000,31-45
+7,Gabriela,29,bom,2500,18-30
+8,Henrique,52,ruim,7000,46-60
+9,Isabela,60,bom,2800,46-60
+10,Jonas,41,ruim,5500,31-45
