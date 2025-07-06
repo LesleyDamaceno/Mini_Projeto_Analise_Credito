@@ -57,5 +57,6 @@ Este projeto é um estudo simples para praticar **ETL com Python**, criação de
 ## 📬 **Contato**
 
 📌 [LinkedIn](https://www.linkedin.com/in/lesley-damaceno/)  
+📌 contatolesleydamaceno@gmail.com  
 
 ---
